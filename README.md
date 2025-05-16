@@ -4,7 +4,7 @@
 
 ---
 
-## 📄 Overview
+## Overview
 
 This repository contains the code, data, and supporting material for my master’s thesis in Engineering Physics. The thesis explores the use of neural network architectures (GRU, LSTM, Transformer) to predict molecular properties such as HOMO–LUMO gaps from SMILES representations.
 
@@ -18,11 +18,11 @@ This repository contains the code, data, and supporting material for my master�
 - [ ] Polish documentation and code comments  
 - [ ] Create example notebook for inference  
 - [ ] Upload defense slides  
-- [ ] Archive repository as public (after approval)
+- [x] Archive repository as public (after approval)
 
 ---
 
-## 📁 Contents
+## Contents
 
 - `src/` – Python source code (data loading, training scripts, evaluation)  
 - `models/` – Saved model definitions and checkpoints  
