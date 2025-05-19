@@ -24,12 +24,12 @@ This repository contains the code, data, and supporting material for my master�
 
 ## 📁 Contents
 
-- `src/` – Python source code (data loading, training scripts, evaluation)  
-- `models/` – Saved model definitions and checkpoints  
-- `data/` – Processed dataset splits (training, validation, test)  
-- `figures/` – Plots and illustrations used in the thesis  
-- `notebooks/` – Jupyter notebooks for exploration and results  
-- `thesis.pdf` – Final thesis document  
+- [`src/`](./src/) – Python source code (data loading, training scripts, evaluation)
+- [`models/`](./models/) – Saved model definitions and checkpoints
+- [`data/`](./data/) – Processed dataset splits (training, validation, test)
+- [`figures/`](./figures/) – Plots and illustrations used in the thesis
+- [`notebooks/`](./notebooks/) – Jupyter notebooks for exploration and results
+- [`thesis.pdf`](./thesis.pdf) – Final thesis document 
 
 ---
 
