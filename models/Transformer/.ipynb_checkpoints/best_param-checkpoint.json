@@ -1,0 +1,9 @@
+{
+    "embed_dim": 512,
+    "n_heads": 2,
+    "n_layers": 1,
+    "hidden_dim": 737,
+    "weight_decay": 1.0124213240380188e-06,
+    "batch_size": 128,
+    "learning_rate": 4.028524427702314e-05
+}
