@@ -12,9 +12,9 @@ This repository contains the code, data, and supporting material for my masterâ€
 
 ## âœ… TODO
 
-- [ ] Finalize and submit thesis manuscript  
+- [x] Finalize and submit thesis manuscript  
 - [ ] Upload cleaned code and datasets  
-- [ ] Add trained model weights  
+- [x] Add trained model weights  
 - [ ] Polish documentation and code comments  
 - [ ] Create example notebook for inference  
 - [ ] Upload defense slides  
